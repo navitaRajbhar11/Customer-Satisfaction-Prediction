@@ -1,0 +1,17 @@
+json (built-in, no need to install)
+numpy
+pandas
+streamlit
+Pillow (PIL comes from here)
+click
+rich
+zenml
+mlflow (installed automatically with ZenML integrations, but install separately if needed)
+catboost
+lightgbm
+xgboost
+optuna
+scikit-learn
+pickle (built-in, no need to install)
+os (built-in, no need to install)
+typing (built-in in Python 3.9+, else typing-extensions)
